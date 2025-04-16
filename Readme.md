@@ -1,4 +1,4 @@
-#Sales Trend Analysis Using SQL Aggregations
+# Sales Trend Analysis Using SQL Aggregations
 
 ## Objective
 Analyze monthly revenue and order volume using SQL queries.
